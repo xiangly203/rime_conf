@@ -1,0 +1,5 @@
+build/
+*.log
+/luna_pinyin.userdb
+/rime_ice.userdb
+sync/
